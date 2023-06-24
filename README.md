@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-About Me
 My name is Rangga Restu Ramadhani. I am an enthusiastic informatics student who is curious and interested in new things about IT, especially mobile developers.
 
 ###  💻 Tech Stack:
