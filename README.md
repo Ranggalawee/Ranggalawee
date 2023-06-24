@@ -6,7 +6,7 @@ Still developing.................................
 
 ###  💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,androidstudio,figma,dart,flutter,html,php,java,css,bootstrap,cpp,git,mysql)](https://github.com/AlfinhiHD/)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,figma,dart,flutter,html,php,java,css,bootstrap,cpp,git,mysql)](https://github.com/AlfinhiHD/)
 
 ###  📋 Stats
 
@@ -14,6 +14,6 @@ Still developing.................................
 
 ###  ✉ How to reach me
 
-**[Instagram](https://www.instagram.com/ranggarstu_/)** | **[LinkedIn](www.linkedin.com/in/ranggarstu)** | *[Email](mailto:ranggarestu2307@gmail.com)*
+**[Instagram](https://www.instagram.com/ranggarstu_/)** | **[LinkedIn](www.linkedin.com/in/ranggarstu)** | **[Instagram](mailto:ranggarestu2307@gmail.com)**
 
 Thank you!
