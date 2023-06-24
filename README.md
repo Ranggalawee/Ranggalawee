@@ -12,6 +12,6 @@
 
 ###  ✉ How to reach me
 
-**[Instagram](https://www.instagram.com/ranggarstu_/)** | **[LinkedIn](www.linkedin.com/in/ranggarstu)** | **[Instagram](mailto:ranggarestu2307@gmail.com)**
+**[Instagram](https://www.instagram.com/ranggarstu_/)** | **[LinkedIn](www.linkedin.com/in/ranggarstu)** | **[Email](mailto:ranggarestu2307@gmail.com)**
 
 Thank you!
