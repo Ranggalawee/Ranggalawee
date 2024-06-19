@@ -12,7 +12,7 @@ My name is Rangga Restu Ramadhani. I am an enthusiastic informatics student who 
 
 ###  ✉ How to reach me
 
-**[Instagram](https://www.instagram.com/ranggarstu_/)** | **[LinkedIn](www.linkedin.com/in/ranggarstu)** | **[Email](mailto:ranggarestu2307@gmail.com)**
+**[Instagram](https://www.instagram.com/ranggarstu_/)** | **[LinkedIn](https://www.linkedin.com/in/ranggarstu/)** | **[Email](mailto:ranggarestu2307@gmail.com)**
 
 *Yogyakarta, Indonesia*
 
