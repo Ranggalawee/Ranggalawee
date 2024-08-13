@@ -8,7 +8,7 @@ My name is Rangga Restu Ramadhani. I am an enthusiastic informatics student who 
 
 ###  📋 Stats
 
-[![Top Langs](https://readme-stats-delivery-klad.vercel.app/api/top-langs/?username=Ranggalawee&theme=material-palenight&compact=true&layout=compact)](https://github.com/Ranggalawee/))
+[![Top Langs](https://readme-stats-delivery-klad.vercel.app/api/top-langs/?username=Ranggalawee&theme=material-palenight&compact=true&layout=compact)](https://github.com/Ranggalawee/)
 
 ###  ✉ How to reach me
 
